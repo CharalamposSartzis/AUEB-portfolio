@@ -1,0 +1,8 @@
+The purpose of the project was to model an electrical appliance store, with the basic functions of selling and ordering the appliances.
+
+The project was implemented in three (3) stages/assignments:
+
+1. Basic class design and use of the command line as the user interface.
+2. Added reading/writing from/to text files.
+3. Development of a graphical user interface, displaying the image of each appliance (when selected) and pop-up windows with messages.
+
