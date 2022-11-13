@@ -1,4 +1,4 @@
-Design and development of an arcade game (e.g. Pong, Space Invaders, Asteroids) using a given graphics library (SGG) and 
+Design and development of an arcade game, based on the features of old arcade games (e.g. Pong, Space Invaders, Asteroids), using a given graphics library (SGG) and 
 the appropriate Containers and Iterators (for each case) from the C++ STL (Standard Template Library).
 
 Emphasis was also placed on:
