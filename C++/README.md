@@ -1,4 +1,4 @@
-# Arcade Game Project
+# Space Game
 
 ## Project's Code
 The full project code is currently stored on OneDrive:  
