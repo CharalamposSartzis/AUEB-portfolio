@@ -1,12 +1,30 @@
--Project's code: (link to OneDrive) https://1drv.ms/u/s!AjADZAz6_Af3smG-poNN7jAIBBva?e=RxXKL7
+# Arcade Game Project
 
--Future actions: plan to move the whole project's code in GitHub.
+## Project's Code
+The full project code is currently stored on OneDrive:  
+[🔗 OneDrive Link](https://1drv.ms/u/s!AjADZAz6_Af3smG-poNN7jAIBBva?e=RxXKL7)
 
--Description:
- Design and development of an arcade game, based on the features of old arcade games (e.g. Pong, Space Invaders, Asteroids), using a given graphics library (SGG) and 
- the appropriate Containers and Iterators (for each case) from the C++ STL (Standard Template Library).
+**Future actions:** The code will be migrated to GitHub.
 
- Emphasis was also placed on:
- -the proper memory allocation and de-allocation, for the purposes of efficiency/capacity and error/exception avoidance,
-  and
- -the hierarchy and efficient design and association of classes, using inheritance and object-oriented programming.
+---
+
+## Description
+This project involves the **design and development of an arcade game**, inspired by classic arcade titles such as *Pong*, *Space Invaders*, and *Asteroids*.  
+It was implemented using the **SGG graphics library** together with appropriate **C++ STL Containers and Iterators** for each use case.
+
+### Key Features & Focus
+- ✅ Proper **memory allocation and deallocation** to ensure efficiency, performance, and error/exception avoidance.  
+- ✅ Well-structured **class hierarchy and design**, applying inheritance and object-oriented programming principles.  
+
+---
+
+## Technologies Used
+- **Language:** C++  
+- **Library:** SGG (Simple Game Graphics library)  
+- **C++ STL:** Containers and Iterators  
+
+---
+
+## Future Work
+- 📦 Migration of the project codebase to GitHub.  
+- 🚀 Potential feature enhancements inspired by retro arcade mechanics.  
