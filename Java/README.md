@@ -15,7 +15,8 @@ The project was developed in **three (3) stages/assignments**:
    - Use of the command line as the user interface.  
 
 2. **File Handling**  
-   - Added functionality for reading from and writing to text files.  
+   - Added functionality for reading from and writing to text files.
+   - Added try-catch error handling.  
 
 3. **Graphical User Interface (GUI)**  
    - Development of a GUI for better user interaction.  
