@@ -27,5 +27,6 @@ The project was developed in **three (3) stages/assignments**:
 
 ## Features
 - Object-oriented design with classes.  
-- File persistence using text files.  
+- File persistence using text files.
+- Basic error handling.  
 - Graphical interface with interactive elements and images.  
